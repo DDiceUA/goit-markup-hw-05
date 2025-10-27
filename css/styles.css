@@ -673,7 +673,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 .user-privacy:checked{
     background-color: #404bbf;
 }
-.user-privacy:checked + .form-pp-text > .form-pp-span{
+.form-pp-check:checked + .form-pp-text > .form-pp-span{
     border: none;
     fill:#F4F4FD;
 }
